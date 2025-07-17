@@ -110,3 +110,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 ---
 
 *Let’s connect and build something amazing together! 🚀*
+
+
+![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
+
