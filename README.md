@@ -17,10 +17,10 @@ Backend Developer | .NET | MongoDB | Clean Architecture | SignalR
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## 📊 GitHub Stats
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanNS1&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ArmanNS1&theme=onedark)
 
 
-![Snake dark](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+![Snake dark](https://github.com/ArmanNS1/ArmanNasrollahi/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
