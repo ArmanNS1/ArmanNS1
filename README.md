@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 ## 🧰 Tech Stack (Highlights)
 
 <p align="center">
-  <p> Languages 
+  <p  align="center"> Languages 
   <br />
   <a src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="36" height="36" alt="C#"/>
@@ -32,14 +32,14 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
   </p>
     
-  <p> Frameworks 
+  <p  align="center"> Frameworks 
   <br />
   <a src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/SignalR-32CD32?style=for-the-badge&logo=signalr&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="36" height="36" alt="C#"/>
     
-  </p>
+  </p  align="center">
 
   <p> Databases
   <br />
@@ -47,14 +47,14 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
   <a src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p> ORMs
+  <p  align="center"> ORMs
   <br />
   <a src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Dapper-4B0082?style=for-the-badge&logo=nuget&logoColor=white" width="36" height="36" alt="C#"/>
 
   </p>
 
-  <p> DevOps
+  <p  align="center"> DevOps
   <br />
   <a src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="36" height="36" alt="C#"/>
@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
   </p>
 
-  <p> Security
+  <p  align="center"> Security
   <br />
   <a src="https://img.shields.io/badge/AES-000000?style=for-the-badge&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/RSA-000000?style=for-the-badge&logoColor=white" width="36" height="36" alt="C#"/>
@@ -70,7 +70,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
   </p>
 
-  <p> Tools
+  <p align="center"> Tools
   <br />
   <a src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="36" height="36" alt="C#"/>
