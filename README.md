@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
   <!-- LANGUAGES -->
   <p>
-    <img src="src="https://www.svgrepo.com/show/452184/csharp.svg" width="30" alt="C#" />
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="30" alt="C#" />
     <img src="https://www.svgrepo.com/show/452234/java.svg" width="30" alt="Java" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/353622/cpp.svg" width="30" alt="C++" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/349540/javascript.svg" width="30" alt="JavaScript" style="margin-left: 10px;" />
