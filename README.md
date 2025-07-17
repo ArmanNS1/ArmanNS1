@@ -20,53 +20,66 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ## 🧰 Tech Stack (Highlights)
 
-  <p align="center"> Languages </p>
+<p align="center">
+  <p> Languages 
   <br />
-  <a src="https://www.svgrepo.com/svg/452184/csharp" width="36" height="36" alt="C#"/>
+  <a src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p align="center"> Frameworks </p>
+  </p>
+    
+  <p> Frameworks 
   <br />
   <a src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/SignalR-32CD32?style=for-the-badge&logo=signalr&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="36" height="36" alt="C#"/>
+    
+  </p>
 
-  <p align="center"> Databases </p>
+  <p> Databases
   <br />
   <a src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p align="center"> ORMs </p>
+  <p> ORMs
   <br />
   <a src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Dapper-4B0082?style=for-the-badge&logo=nuget&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p align="center"> DevOps </p>
+  </p>
+
+  <p> DevOps
   <br />
   <a src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p align="center"> Security </p>
+  </p>
+
+  <p> Security
   <br />
   <a src="https://img.shields.io/badge/AES-000000?style=for-the-badge&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/RSA-000000?style=for-the-badge&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Diffie--Hellman-000000?style=for-the-badge&logoColor=white" width="36" height="36" alt="C#"/>
 
-  <p align="center"> Tools </p>
+  </p>
+
+  <p> Tools
   <br />
   <a src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" width="36" height="36" alt="C#"/>
   <a src="https://www.svgrepo.com/svg/374111/swagger" width="36" height="36" alt="Swagger"/>
+
+  </p>
   
-</p align="center">
+</p>
 
 > *Frontend knowledge Backend focus on secure, real-time systems.*
 
