@@ -34,10 +34,10 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
     
   <p  align="center"> Frameworks 
   <br />
-  <a src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
-  <a src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36" alt="C#"/>
-  <a src="https://img.shields.io/badge/SignalR-32CD32?style=for-the-badge&logo=signalr&logoColor=white" width="36" height="36" alt="C#"/>
-  <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="36" height="36" alt="C#"/>
+  <a src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36"/>
+  <a src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" width="36" height="36"/>
+  <a src="https://img.shields.io/badge/SignalR-32CD32?style=for-the-badge&logo=signalr&logoColor=white" width="36" height="36" />
+  <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="36" height="36" />
     
   </p  align="center">
 
