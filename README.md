@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
   <!-- LANGUAGES -->
   <p>
-    <img src="https://www.svgrepo.com/show/374041/c-sharp.svg" width="30" /><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+    <img src="https://www.svgrepo.com/show/374041/c-sharp.svg" width="30" /
 <svg width="800px" height="800px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M27.6947 22.9999C27.883 22.6617 28 22.2807 28 21.9385V10.0613C28 9.71913 27.8831 9.33818 27.6947 9L16 16L27.6947 22.9999Z" fill="#7F3A86"/>
 <path d="M17.0395 29.7433L26.9611 23.8047C27.2469 23.6336 27.5067 23.3382 27.695 23L16.0003 16L4.30566 23C4.49398 23.3382 4.75382 23.6337 5.03955 23.8047L14.9611 29.7433C15.5326 30.0855 16.468 30.0855 17.0395 29.7433Z" fill="#662579"/>
