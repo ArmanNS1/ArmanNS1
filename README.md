@@ -7,14 +7,13 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ## 🔍 About Me
 - 🔭 **Current Projects**  
-  - `FileSync API`: Real-time cloud sync with SignalR  
-  - `AuthGuard`: JWT + OAuth + AES/RSA secure authentication  
-  - `Microservices Playground`: Dockerized .NET apps with SQL || MongoDB  
-
-- 🌱 **Currently Learning**: Kubernetes, gRPC, ECC/Post-Quantum crypto  
-- 💬 **Ask Me About**: ASP.NET Core, MongoDB, SignalR, Secure Coding  
-- 📫 **Reach Me**: [Email](mailto:your-email) · [LinkedIn](https://www.linkedin.com/in/your-profile) · //[Portfolio](https://your-portfolio.com)  
-- ⚡ **Fun Fact**: I debug by day, explore manga by night 🌙  
+- `FileSync API`: Real-time cloud sync with SignalR  
+- `AuthGuard`: JWT + OAuth + AES/RSA secure authentication
+- - `Microservices Playground`: Dockerized .NET apps with SQL || MongoDB  
+- 🌱 `Currently Learning`: Kubernetes, gRPC, ECC/Post-Quantum crypto  
+- 💬 `Ask Me About`: ASP.NET Core, MongoDB, SignalR, Secure Coding  
+- 📫 `Reach Me`: [Email](mailto:your-email) · [LinkedIn](https://www.linkedin.com/in/your-profile) · //[Portfolio](https://your-portfolio.com)  
+- ⚡ `Fun Fact`: I debug by day, explore manga by night 🌙  
 
 ---
 
