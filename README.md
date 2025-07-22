@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
     <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="30" alt="C#" />
     <img src="https://www.svgrepo.com/show/452234/java.svg" width="30" alt="Java" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/353622/cpp.svg" width="30" alt="C++" style="margin-left: 10px;" />
-    <img src="[https://www.svgrepo.com/show/349540/javascript.svg" width="30" alt="JavaScript](https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000)" style="margin-left: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="30" alt="JavaScript" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/452192/dart.svg" width="30" alt="Dart" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/373935/sql-database-generic.svg" width="30" alt="SQL" style="margin-left: 10px;" />
     <br/>
