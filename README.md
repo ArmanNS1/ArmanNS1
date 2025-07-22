@@ -69,3 +69,12 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
 </div>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanNS1&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNS1&layout=compact&theme=dracula&hide_border=true" height="150" />
+</p>
+
