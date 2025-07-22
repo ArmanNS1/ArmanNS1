@@ -72,14 +72,6 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanNS1&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNS1&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 - 🔹 [**FileSync API**](https://github.com/ArmanNS1/): Secure file sync with SignalR  
 - 🔹 [**AuthGuard**](https://github.com/ArmanNS1/): AES + OAuth authentication  
