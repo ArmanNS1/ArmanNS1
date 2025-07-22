@@ -50,9 +50,9 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
   <p>
     <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="50" alt="C#" />
     <img src="https://www.svgrepo.com/show/452234/java.svg" width="50" alt="Java" style="margin-left: 10px;" />
-    <img src="" width="50" alt="C++" style="margin-left: 10px;" />
-    <img src="" width="50" alt="JavaScript" style="margin-left: 10px;" />
-    <img src="" width="50" alt="Dart" style="margin-left: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50" alt="C++" style="margin-left: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="50" alt="JavaScript" style="margin-left: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50" alt="Dart" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="30" alt="ASP.NET" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" width="30" alt="Flutter" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" alt="SQL Server" />
@@ -60,12 +60,11 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" alt="MongoDB" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/354259/dotnet.svg" width="30" title="Entity Framework" alt="Entity Framework" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" alt="Docker" />
-    <img src="https://www.svgrepo.com/show/327889/lock.svg" width="30" alt="AES" title="AES" />
-    <img src="https://www.svgrepo.com/show/512089/key-03.svg" width="30" style="margin-left: 10px;" alt="RSA" title="RSA" />
+    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="30" alt="AES" title="AES" />
+    <img src="https://img.icons8.com/?size=100&id=ntVSh0Ope4ZO&format=png&color=000000" width="30" style="margin-left: 10px;" alt="RSA" title="RSA" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" alt="Git" />
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="30" alt="Postman" style="margin-left: 10px;" />
-    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="30" alt="Swagger" style="margin-left: 10px;" />
-    <strong>Tools</strong>
+    <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="30" alt="Swagger" style="margin-left: 10px;" />
   </p>
 
 </div>
