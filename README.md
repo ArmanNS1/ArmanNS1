@@ -28,8 +28,6 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
   <!-- LANGUAGES -->
   <p>
     <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="50" alt="C#" />
-    <img src="https://www.svgrepo.com/show/452234/java.svg" width="50" alt="Java" style="margin-left: 10px;" />
-    <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50" alt="C++" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="50" alt="JavaScript" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50" alt="Dart" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="50" alt="ASP.NET" style="margin-left: 10px;" />
