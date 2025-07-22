@@ -69,35 +69,3 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
 </div>
-
-
-> *Frontend knowledge Backend focus on secure, real-time systems.*
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanNS1&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNS1&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
-
----
-
-## 🌟 Featured Projects
-- 🔹 [**FileSync API**](https://github.com/ArmanNS1/): Secure file sync with SignalR  
-- 🔹 [**AuthGuard**](https://github.com/ArmanNS1/): AES + OAuth authentication  
-- 🔹 [**Microservices Demo**](https://github.com/ArmanNS1/): Dockerized .NET Microservices  
-
----
-
-## 📝 Blog & Contributions
-- [🔐 Building Scalable APIs with .NET and MongoDB](https://your-blog.com/post1)  
-- [🛡️ Securing APIs with AES & Diffie-Hellman](https://your-blog.com/post2)  
-- OSS Contributions: [Dapper.Contrib](https://github.com/DapperLib/Dapper.Contrib), [SignalR](https://github.com/dotnet/aspnetcore)
-
----
-
-*Let’s connect and build something amazing together! 🚀*
-
-![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
-</div>
