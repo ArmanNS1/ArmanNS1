@@ -21,25 +21,17 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 <div align="center">
 
-## 🧰 Tech Stack (Highlights)
-
-<div align="center">
-
   <!-- LANGUAGES -->
   <p>
     <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="50" alt="C#" />
-    <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="50" alt="JavaScript" style="margin-left: 10px;" />
-    <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50" alt="Dart" style="margin-left: 10px;" />
     <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="50" alt="ASP.NET" style="margin-left: 10px;" />
-    <img src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" width="50" alt="Flutter" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL Server" />
-    <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50" alt="PostgreSQL" style="margin-left: 10px;" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" alt="MongoDB" style="margin-left: 10px;" />    
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354272/redis.svg" width="36" height="36" alt="Redis" /></a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" alt="Docker" />
     <img src="https://img.icons8.com/?size=100&id=2438&format=png&color=000000" width="50" alt="AES" title="AES" />
     <img src="https://img.icons8.com/?size=100&id=ntVSh0Ope4ZO&format=png&color=000000" width="50" style="margin-left: 10px;" alt="RSA" title="RSA" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" alt="Git" />
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" alt="Postman" style="margin-left: 10px;" />
     <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="50" alt="Swagger" style="margin-left: 10px;" />
   </p>
 
