@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 - `Microservices Playground`: Dockerized .NET apps with SQL || MongoDB  
 - 🌱 `Currently Learning`: Kubernetes, gRPC, ECC/Post-Quantum crypto  
 - 💬 `Ask Me About`: ASP.NET Core, MongoDB, SignalR, Secure Coding  
-- 📫 `Reach Me`: [Email](a.n004@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/ArmanNS!) 
+- 📫 `Reach Me`: [Email Me](mailto:a.n004@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-nasrollahi-8312642a5)
 - ⚡ `Fun Fact`: I debug by day, explore manga by night 🌙  
 
 ---
