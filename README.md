@@ -41,20 +41,6 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ---
 
-## 🌟 Featured Projects
-- 🔹 [**FileSync API**](https://github.com/ArmanNS1/): Secure file sync with SignalR  
-- 🔹 [**AuthGuard**](https://github.com/ArmanNS1/): AES + OAuth authentication  
-- 🔹 [**Microservices Demo**](https://github.com/ArmanNS1/): Dockerized .NET Microservices  
-
----
-
-## 📝 Blog & Contributions
-- [🔐 Building Scalable APIs with .NET and MongoDB](https://your-blog.com/post1)  
-- [🛡️ Securing APIs with AES & Diffie-Hellman](https://your-blog.com/post2)  
-- OSS Contributions: [Dapper.Contrib](https://github.com/DapperLib/Dapper.Contrib), [SignalR](https://github.com/dotnet/aspnetcore)
-
----
-
 *Let’s connect and build something amazing together! 🚀*
 
 ![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
