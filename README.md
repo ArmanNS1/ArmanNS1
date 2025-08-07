@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 </div>
 
-> *Frontend knowledge Backend focus on secure, real-time systems.*
+> *Primarily backend-focused, with a strong interest in secure and real-time architectures.*
 
 ---
 
