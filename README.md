@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Arman Nasrollahi  
+# Hi, I'm Arman Nasrollahi  
 **Backend Developer | .NET Enthusiast | Security Advocate **
 
 Welcome to my GitHub! I'm a backend developer focused on building scalable, secure, and high-performance systems with **C#**, **.NET**, and modern tech stacks. I love solving complex problems in system design, security, and real-time communication—while keeping the code clean and elegant.
 
 ---
 
-## 🔍 About Me
-- 🔭 **Current Projects**  
+## About Me
+-  **Current Projects**  
 - `FileSync API`: Real-time cloud sync with SignalR  
 - `AuthGuard`: JWT + OAuth + AES/RSA secure authentication
 - `Microservices Playground`: Dockerized .NET apps with SQL || MongoDB  
-- 🌱 `Currently Learning`: Kubernetes, gRPC, ECC/Post-Quantum crypto  
-- 💬 `Ask Me About`: ASP.NET Core, MongoDB, SignalR, Secure Coding  
-- 📫 `Reach Me`: [Email Me](mailto:a.n004@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-nasrollahi-8312642a5)
-- ⚡ `Fun Fact`: I debug by day, explore manga by night 🌙  
+- `Currently Learning`: Kubernetes, gRPC, ECC/Post-Quantum crypto  
+- `Ask Me About`: ASP.NET Core, MongoDB, SignalR, Secure Coding  
+- `Reach Me`: [Email Me](mailto:a.n004@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-nasrollahi-8312642a5)
+- `Fun Fact`: I debug by day, explore manga by night 🌙  
 
 ---
 
-## 🧰 Tech Stack (Highlights)
+## Tech Stack (Highlights)
 
 <div align="center">
 
@@ -45,12 +45,3 @@ Welcome to my GitHub! I'm a backend developer focused on building scalable, secu
 
 ![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
 </div>
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanNS1&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNS1&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
-
