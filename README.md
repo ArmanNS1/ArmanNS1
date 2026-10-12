@@ -1,47 +1,45 @@
-# Hi, I'm Arman Nasrollahi  
-**Backend Developer | .NET Enthusiast | Security Advocate **
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin_banner_dark.png">
+  <img alt="Arman Nasrollahi, .NET Backend Developer" src="assets/linkedin_banner_light.png">
+</picture>
 
-Welcome to my GitHub! I'm a backend developer focused on building scalable, secure, and high-performance systems with **C#**, **.NET**, and modern tech stacks. I love solving complex problems in system design, security, and real-time communication—while keeping the code clean and elegant.
+## Hi, I'm Arman.
 
----
+I'm a backend developer building APIs, payment integrations and real-time systems with **C#** and **ASP.NET Core**. Since 2023 I've worked on production products in education, fintech, fitness, e-commerce and enterprise ERP.
 
-## About Me
--  **Current Projects**  
-- `FileSync API`: Real-time cloud sync with SignalR  
-- `AuthGuard`: JWT + OAuth + AES/RSA secure authentication
-- `Microservices Playground`: Dockerized .NET apps with SQL || MongoDB  
-- `Currently Learning`: Kubernetes, gRPC, ECC/Post-Quantum crypto  
-- `Ask Me About`: ASP.NET Core, MongoDB, SignalR, Secure Coding  
-- `Reach Me`: [Email Me](mailto:a.n004@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-nasrollahi-8312642a5)
-- `Fun Fact`: I debug by day, explore manga by night 🌙  
+I care about clean structure, readable code and how a system behaves after it ships.
 
 ---
 
-## Tech Stack (Highlights)
+### What I work with
 
-<div align="center">
-
-  <!-- LANGUAGES -->
-  <p>
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="50" alt="C#" />
-    <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="50" alt="ASP.NET" style="margin-left: 10px;" />
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL Server" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" alt="MongoDB" style="margin-left: 10px;" />    
-    <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354272/redis.svg" width="36" height="36" alt="Redis" /></a>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" alt="Docker" />
-    <img src="https://img.icons8.com/?size=100&id=2438&format=png&color=000000" width="50" alt="AES" title="AES" />
-    <img src="https://img.icons8.com/?size=100&id=ntVSh0Ope4ZO&format=png&color=000000" width="50" style="margin-left: 10px;" alt="RSA" title="RSA" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" alt="Git" />
-    <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="50" alt="Swagger" style="margin-left: 10px;" />
-  </p>
-
-</div>
-
-> *Primarily backend-focused, with a strong interest in secure and real-time architectures.*
+| | |
+|---|---|
+| **Languages & frameworks** | C#, .NET, ASP.NET Core, REST APIs |
+| **Data** | MongoDB (schema design, indexing, aggregation), SQL Server |
+| **Architecture** | Clean Architecture, Repository-Service, SOLID, Dependency Injection |
+| **Auth & real-time** | JWT, role-based access control, SignalR |
+| **Integrations** | Payment gateways, SMS, MailKit, S3 |
+| **Tools** | Git, Docker, Swagger/OpenAPI, Postman |
 
 ---
 
-*Let’s connect and build something amazing together! 🚀*
+### Featured
 
-![Snake dark](https://raw.githubusercontent.com/ArmanNS1/ArmanNasrollahi/output/github-contribution-grid-snake-dark.svg)
-</div>
+- **[PersianDateTimeHelper](https://github.com/ArmanNS1/PersianDateTimeHelper)**: a .NET library for Persian (Jalali) calendar logic, published on NuGet. Date conversion, holiday detection, working-hours and overtime calculations, with unit tests and ASP.NET Core DI support.
+- **[Add your flagship repo here]**: a one-line description of what it shows.
+- **[Basic_UserService_API](https://github.com/ArmanNS1/Basic_UserService_API)**: a user service API with MongoDB.
+
+---
+
+### Right now
+
+- Building: [what you're working on]
+- Learning: [for example Kubernetes, gRPC]
+- Writing: posts about .NET backend work on LinkedIn
+
+---
+
+### Find me
+
+[Portfolio](https://arman-portfolio-inky-xi.vercel.app/en/) · [LinkedIn](https://www.linkedin.com/in/arman-nasrollahi) · [Email](mailto:ns1armandev@gmail.com)
